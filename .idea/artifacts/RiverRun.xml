@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RiverRun">
+    <output-path>$USER_HOME$/Documents/Servers/RiverRun/plugins</output-path>
+    <root id="archive" name="RiverRun.jar">
+      <element id="module-output" name="RiverRun" />
+    </root>
+  </artifact>
+</component>
